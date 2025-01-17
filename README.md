@@ -44,3 +44,6 @@ If you want to customize the project:
 Register at OpenWeather and get your own API Key.
   Replace the API Key in the resultado.php file:
   $apiKey = "YOUR_API_KEY_HERE";
+
+
+//Carlos Daniel González Cazares was here
